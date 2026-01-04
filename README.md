@@ -1,9 +1,9 @@
+# Cralph
+
 This project is inspired by and adapted from the original "Ralph" workflow in
 `ralph-claude-code`. Full credit and thanks to the original work:
 https://github.com/frankbria/ralph-claude-code
 
-
-# Cralph
 
 Shell tools to run the "Cralph" autonomous Codex loop, plus helpers to set up
 new projects, import PRDs, and monitor progress.
