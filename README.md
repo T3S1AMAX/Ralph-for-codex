@@ -71,6 +71,12 @@ Example with monitoring and output streaming:
 cralph --monitor --show-output
 ```
 
+To reset the loop constraint
+
+```bash
+cralph --reset-circuit
+```
+
 ## Import a PRD
 
 Convert an existing spec into a Cralph project:
